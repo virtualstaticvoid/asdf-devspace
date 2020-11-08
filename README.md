@@ -1,6 +1,6 @@
 # asdf-devspace
 
-[![Build Status](https://travis-ci.org/virtualstaticvoid/asdf-devspace.svg?branch=master)](https://travis-ci.org/virtualstaticvoid/asdf-devspace)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/virtualstaticvoid/asdf-devspace/Main%20Workflow?style=flat-square)](https://github.com/virtualstaticvoid/asdf-devspace/actions)
 
 [`devspace`][util] plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
 
