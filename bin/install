@@ -29,7 +29,20 @@ get_platform() {
 }
 
 get_arch() {
-  echo "amd64"
+  local arch=$(uname -m)
+  case $arch in
+    amd64 | x86_64)
+      echo "amd64"
+      ;;
+    arm64)
+      echo "arm64"
+      ;;
+    i386 | i686)
+      echo "386"
+      ;;
+    *)
+      echo ""
+  esac
 }
 
 get_download_url() {
