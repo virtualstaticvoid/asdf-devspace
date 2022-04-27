@@ -14,4 +14,4 @@ asdf plugin-add devspace https://github.com/virtualstaticvoid/asdf-devspace.git
 
 Check [asdf](https://github.com/asdf-vm/asdf) readme for instructions on how to install & manage versions of devspace.
 
-[util]: https://github.com/devspace-cloud/devspace
+[util]: https://github.com/loft-sh/devspace

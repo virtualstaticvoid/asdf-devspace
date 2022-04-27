@@ -2,7 +2,7 @@
 
 set -eo pipefail
 
-repo=devspace-cloud/devspace
+repo=loft-sh/devspace
 
 cmd="curl --silent --location"
 releases_path="https://api.github.com/repos/$repo/releases"
