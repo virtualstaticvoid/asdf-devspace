@@ -8,6 +8,7 @@
 
 ```
 asdf plugin-add devspace https://github.com/virtualstaticvoid/asdf-devspace.git
+asdf install devspace latest
 ```
 
 ## Use
